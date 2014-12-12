@@ -1,0 +1,6 @@
+FileName set to proxyapp.properties
+ConfigurationUtils.locate(): base is null, name is proxyapp.properties
+Could not locate file proxyapp.properties at null: no protocol: proxyapp.properties
+Loading configuration from the context classpath (proxyapp.properties)
+Base path set to file:///C:/Users/lblancher/workspace/QlikWebServiceProxy/target/test-classes/proxyapp.properties
+Entering run()
